@@ -1,0 +1,5 @@
+Algoritma ve Programlama
+1000 74 62
+1001 52 84
+1002 86 44
+1003 62 63
